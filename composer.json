@@ -1,5 +1,5 @@
 {
-  "name": "googleads/googleads-php-lib",
+  "name": "steerfox/googleads-php-lib",
   "description": "Google Ads APIs Client Library for PHP (AdWords and DFP)",
   "require": {
     "php": ">=5.5.9",
@@ -18,7 +18,7 @@
   "suggest": {
     "php-64bit": ">=5.5.9"
   },
-  "homepage": "https://github.com/googleads/googleads-php-lib",
+  "homepage": "https://github.com/Steerfox/googleads-php-lib",
   "license": "Apache-2.0",
   "autoload": {
     "psr-4": { "Google\\AdsApi\\": "src/Google/AdsApi/" }
@@ -26,7 +26,7 @@
   "authors": [
     {
       "name": "Google",
-      "homepage": "https://github.com/googleads/googleads-php-lib/contributors"
+      "homepage": "https://github.com/Steerfox/googleads-php-lib/contributors"
     }
   ]
 }
