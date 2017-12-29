@@ -24,6 +24,7 @@
   "autoload": {
     "psr-4": { "Google\\AdsApi\\": "src/Google/AdsApi/" }
   },
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Google",
